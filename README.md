@@ -19,4 +19,5 @@ This project is the frontend for the AI Dental Management System, built using Re
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://gi
+   git clone https://github.com/your-repo/ai-dental-frontend.git
+   cd ai-dental-frontend
